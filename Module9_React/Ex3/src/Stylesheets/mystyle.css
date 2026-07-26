@@ -1,0 +1,27 @@
+.student{
+    text-align:center;
+    margin-top:50px;
+}
+
+h1{
+    color:brown;
+    font-size:45px;
+}
+
+h3{
+    margin:10px;
+    color:crimson;
+    font-size:28px;
+}
+
+h3 span{
+    color:royalblue;
+}
+
+h3:last-child{
+    color:green;
+}
+
+h3:last-child span{
+    color:lightgreen;
+}
