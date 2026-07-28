@@ -1,0 +1,32 @@
+.container{
+    width: 500px;
+    margin: 70px auto;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    margin-bottom: 40px;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    padding: 8px;
+}
+
+input{
+    width: 180px;
+    height: 25px;
+}
+
+textarea{
+    width: 180px;
+}
+
+button{
+    padding: 6px 15px;
+    cursor: pointer;
+}
